@@ -1,2 +1,2 @@
-# Multiplication-Test-in-python
+# Multiplication-Test
 Just a simple multiplication tables test
